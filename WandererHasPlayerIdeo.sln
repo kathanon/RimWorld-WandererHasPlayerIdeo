@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{B8660E8B-B99D-4189-B57D-E5632DD421B5}") = "WandererHasPlayerIdeo", "Source\WandererHasPlayerIdeo.csproj", "{D2B27C20-BED6-4C5D-81D6-1C06BE735827}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2B27C20-BED6-4C5D-81D6-1C06BE735827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B27C20-BED6-4C5D-81D6-1C06BE735827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B27C20-BED6-4C5D-81D6-1C06BE735827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B27C20-BED6-4C5D-81D6-1C06BE735827}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64A022CE-822D-4F84-A240-C693801EBD4A}
+	EndGlobalSection
+EndGlobal
